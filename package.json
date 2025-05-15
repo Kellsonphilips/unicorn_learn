@@ -2,6 +2,7 @@
   "name": "unicorn_learn",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
@@ -16,6 +17,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "autoprefixer": "^10.4.14",
+    "daisyui": "^5.0.35",
     "eslint": "^9",
     "eslint-config-next": "15.3.2",
     "postcss": "^8.4.14",
